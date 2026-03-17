@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/tools/FetchData.js"  ],
   "exclude": ["node_modules"]
 }
